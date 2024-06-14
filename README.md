@@ -3,7 +3,7 @@
 
  **Linguagem C**
   - Começando do absoluto zero 
-  - 1.1 - Aprenda a usar o DEV C++
+  - [*1.1 - Aprenda a usar o DEV C++](https://github.com/GersonESS/CursoDeLinguagemC/blob/main/Projeto/Ex_1_1.c)
   - 1.2 - Aprenda a DEBUGAR em Linguagem C - Debug via Dev C++
  - [#2.1 - Aprenda a mostrar mensagens em Linguagem C - printf](https://github.com/GersonESS/EstruturadeDados/blob/main/variaveis-e-memoria/codes/variaveis-e-memoria.c)
 
