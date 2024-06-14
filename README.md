@@ -2,7 +2,7 @@
  Curso de Linguagem C - 2022 (Gratuito)
 
  **Linguagem C**
-  - [Começando do absoluto zero] 
+  - [Começando do absoluto zero](https://github.com/GersonESS/CursoDeLinguagemC/blob/main/Projeto/Ex_1_0.c)
   - [1.1 - Aprenda a usar o DEV C++](https://github.com/GersonESS/CursoDeLinguagemC/blob/main/Projeto/Ex_1_1.c)
   - [1.2 - Aprenda a DEBUGAR em Linguagem C - Debug via Dev C++](https://github.com/GersonESS/CursoDeLinguagemC/blob/main/Projeto/Ex_1_2.c)
  -  [2.1 - Aprenda a mostrar mensagens em Linguagem C - printf](https://github.com/GersonESS/CursoDeLinguagemC/blob/main/Projeto/Ex_2_1.c)
