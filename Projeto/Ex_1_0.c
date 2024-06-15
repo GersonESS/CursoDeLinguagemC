@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include<stdio.h>
 
 int main(){
-	printf("Inicio\n");
+	printf("Oi!!!!!!!!!!!!!!!!!!!!!!\n");
 	system("pause");
 }
